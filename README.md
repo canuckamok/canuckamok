@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Ilan 👋
 
-<!--
-**canuckamok/canuckamok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-native product leader. I build fast, learn faster, and ship things that matter.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **[Teachr.me](https://teachr.me)** — Founded an edtech startup using agentic AI to cut teacher grading time by 70%. Built with Claude + ChatGPT.
+
+🎙️ **[Prompt and Circumstance](https://www.pandcpodcast.com)** — Co-hosting a weekly podcast on AI-native product development. Real patterns, not hype.
+
+## How I build
+
+I'm a product leader who codes. Not to ship production systems, but to prototype fast, validate faster, and have real conversations with engineers.
+
+- **Prototyping:** Lovable, Bolt, Cursor, v0
+- **Automation:** n8n, Python, API integrations
+- **LLMs:** Claude, ChatGPT, Gemini, Mistal, DeepSeek
+- **Analysis:** SQL, Pendo, building internal tools
+
+## My philosophy
+
+Ship → Learn → Iterate. Most product work fails because teams over-plan and under-ship. I'd rather build something ugly that teaches us something than spec something perfect that never launches.
+
+## Background
+
+Director of Product at a shipping/logistics company, where I grew a product line from $XXM → $XXXM. Before that: BI product management, mechanical engineering degrees (UofT, UBC).
+
+I care about building for underserved users—small businesses, teachers, people the tech industry often ignores.
+
+## Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/ilan-rotenberg)
+- 🎙️ [Podcast](https://www.pandcpodcast.com)

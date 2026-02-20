@@ -4,13 +4,13 @@ AI-native product leader. I build fast, learn faster, and ship things that matte
 
 ## What I'm working on
 
-🎓 **[Teachr.me](https://teachr.me)** — Founded an edtech startup using agentic AI to cut teacher grading time by 70%. Built with Claude + ChatGPT.
+🎓 **[Teachr.me](https://teachr.me)** — Edtech product using agentic AI to cut teacher grading time by 70%. Built with Claude + ChatGPT.
 
-🎙️ **[Prompt and Circumstance](https://www.pandcpodcast.com)** — Co-hosting a weekly podcast on AI-native product development. Real patterns, not hype.
+🎙️ **[Prompt and Circumstance](https://www.pandcpodcast.com)** — Co-hosting a weekly podcast on AI-native product development, aiming to teach product teams something useful every two weeks.
 
 ## How I build
 
-I'm a product leader who codes. Not to ship production systems, but to prototype fast, validate faster, and have real conversations with engineers.
+I'm a product leader who writes code - I build prototypes, automate workflows, and aim to solve real problems for my teams and for the world at large.
 
 - **Prototyping:** Lovable, Bolt, Cursor, v0
 - **Automation:** n8n, Python, API integrations
